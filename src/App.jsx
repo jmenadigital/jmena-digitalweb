@@ -1,3 +1,4 @@
+import josemiguel from "./assets/josemiguel.png";
 export default function JMenaDigitalWeb() {
   return (
     <div className="min-h-screen bg-black text-white font-sans overflow-x-hidden">
@@ -64,7 +65,7 @@ export default function JMenaDigitalWeb() {
               <div className="relative backdrop-blur-xl bg-white/5 border border-white/10 rounded-[32px] p-8 shadow-2xl overflow-hidden">
                 <div className="flex flex-col md:flex-row gap-6 items-center md:items-start">
                   <img
-                    src="/src/assets/josemiguel.png"
+                    src={josemiguel}
                     alt="José Miguel"
                     className="w-36 h-36 sm:w-48 sm:h-48 rounded-3xl object-cover border border-blue-400/30 shadow-xl"
                   />

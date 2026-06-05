@@ -5,7 +5,7 @@ import barberia from './assets/barberia.jpg'
 import maestrofachada from './assets/maestrofachada.png'
 
 import electricista from './assets/electricista.jpg'
-import fontanero from './assets/Fontanero.jpg'
+import fontanero from './assets/fontanero.jpg'
 import pintor from './assets/pintor.jpg'
 import albanil from './assets/albañil.jpg'
 import piscina from './assets/piscina.jpg'

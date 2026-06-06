@@ -552,7 +552,7 @@ export default function JMenaDigitalWeb() {
   <p className="text-xl font-semibold text-white">JMena DigitalWeb</p>
 
   <p className="mt-3 text-gray-300">
-    Hacemos que tu negocio se vea profesional y genere confianza online
+    Hago que tu negocio se vea profesional y genere confianza online
   </p>
 
   <div className="mt-6 space-y-2 text-sm">

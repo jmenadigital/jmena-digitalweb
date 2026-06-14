@@ -30,7 +30,7 @@ export default function DemoPlantilla() {
         <img
   src={heroImage}
   alt="Imagen principal"
-  className="w-full h-full object-cover opacity-60 scale-105"
+  className="w-full h-full object-cover opacity-80 scale-105"
 />
 
         <div className="absolute inset-0 bg-black/60"></div>

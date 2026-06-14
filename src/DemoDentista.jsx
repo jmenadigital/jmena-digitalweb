@@ -12,7 +12,7 @@ export default function DemoDentista() {
         <img
           src={clinicasonrisaperfecta}
           alt="Clínica dental moderna"
-          className="w-full h-full object-cover opacity-40"
+          className="w-full h-full object-cover opacity-100"
         />
 
         <div className="absolute inset-0 bg-black/60"></div>

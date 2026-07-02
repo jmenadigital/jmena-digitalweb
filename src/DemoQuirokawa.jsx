@@ -3,7 +3,7 @@ import quirokawahero from "./assets/quirokawahero.jpg";
 import quirokawalogo from "./assets/quirokawalogo.png";
 import quirokawa1 from "./assets/quirokawa1.jpeg";
 import quirokawa2 from "./assets/quirokawa2.jpg";
-import quirokawa3 from "./assets/quirokawa3.jpg";
+import quirokawa3 from "./assets/quirokawa3.JPG";
 import quirokawa4 from "./assets/quirokawa4.jpg";
 import quirokawa5 from "./assets/quirokawa5.jpg";
 import martinperfil from "./assets/martinperfil.jpg";

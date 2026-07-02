@@ -10,7 +10,7 @@ import martinperfil from "./assets/martinperfil.jpg";
 import martincolor from "./assets/martincolor.jpg";
 import martinultrasonido from "./assets/martinultrasonido.jpg";
 export default function DemoQuirokawa() {
-    
+   // Vercel rebuild test - assets check OK 
   return (
     
     

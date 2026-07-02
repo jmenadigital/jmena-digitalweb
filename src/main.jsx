@@ -12,6 +12,7 @@ import DemoDentista from './DemoDentista.jsx'
 import DemoPlantilla from './DemoPlantilla.jsx'
 import DemoBarberia from './DemoBarberia.jsx'
 import DemoMartinAndrada from './DemoMartinAndrada.jsx'
+import DemoQuirokawa from './DemoQuirokawa.jsx'
 import Maestro from './Maestro.jsx'
 import ScrollToTop from './ScrollToTop.jsx'
 createRoot(document.getElementById('root')).render(
@@ -23,6 +24,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/demo-dentista" element={<DemoDentista />} />
         <Route path="/demo-plantilla" element={<DemoPlantilla />} />
         <Route path="/demo-martin-andrada" element={<DemoMartinAndrada />} />
+        <Route path="/demo-quirokawa" element={<DemoQuirokawa />} />
         <Route path="/demo-barberia" element={<DemoBarberia />} />
         <Route path="/maestro" element={<Maestro />} />
       </Routes>
